@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    background-color:rgb(28, 28, 28);
+    color:rgb(255, 238, 0);
+}
+canvas{
+    /* box-shadow:black 20px 10px 50px; */
+    border:2px dotted rgb(255, 238, 0);
+}
